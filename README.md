@@ -8,4 +8,5 @@ start with : go run cmd/web/*.go
 
 # init module
 
-go mod init github.com/[your user github]/[module name]
+go mod init github.com/your-user-github/module-name
+
